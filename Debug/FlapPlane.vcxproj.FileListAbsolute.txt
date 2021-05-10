@@ -1,0 +1,2 @@
+G:\FlapPlane\FlapPlane\Debug\FlapPlane.exe
+G:\FlapPlane\FlapPlane\Debug\FlapPlane.pdb

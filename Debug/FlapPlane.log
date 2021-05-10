@@ -1,0 +1,36 @@
+﻿  BaseObject.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  BlockObject.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+G:\FlapPlane\FlapPlane\BlockObject.cpp(70,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+G:\FlapPlane\FlapPlane\BlockObject.cpp(174,23): warning C4018: '<': signed/unsigned mismatch
+G:\FlapPlane\FlapPlane\BlockObject.cpp(225,23): warning C4018: '<': signed/unsigned mismatch
+  CommonFunc.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.cpp(44,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\FlapPlane\FlapPlane\CommonFunc.cpp(45,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\FlapPlane\FlapPlane\CommonFunc.cpp(46,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\FlapPlane\FlapPlane\CommonFunc.cpp(47,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\FlapPlane\FlapPlane\CommonFunc.cpp(28,18): warning C4101: 'menu': unreferenced local variable
+  Geometric.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  ImpTimer.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  main.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+G:\FlapPlane\FlapPlane\main.cpp(192,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PlayerObject.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+G:\FlapPlane\FlapPlane\PlayerObject.cpp(57,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  TextObject.cpp
+G:\FlapPlane\FlapPlane\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+G:\FlapPlane\FlapPlane\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  Generating Code...
+  FlapPlane.vcxproj -> G:\FlapPlane\FlapPlane\Debug\FlapPlane.exe
